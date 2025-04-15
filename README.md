@@ -8,7 +8,7 @@ The agent learns to play the game perfectly after 800 episodes of training.
 - numppy
 - torch
 ## Running
-- Training the agent for 901 episodes (change the hyperparameters in rl_agent.py and the number of episodes and rewards in run_training.py)
+- Training the agent for 901 episodes (change the hyperparameters in `rl_agent.py` and the number of episodes and rewards in `run_training.py`)
 
 `python run_training.py`
 - Watching how a trained agent performs
